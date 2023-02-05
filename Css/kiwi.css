@@ -567,7 +567,7 @@ ul {
 .footer .socials {
     margin-left: 200px;
 }
-.footer .socials i {
+.footer .socials a {
     color: var(--secondary-color);
     margin-right: 10px;
 }
