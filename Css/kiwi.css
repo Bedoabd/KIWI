@@ -153,8 +153,7 @@ ul {
 .header .links ul li a:hover,
 .active {
     box-sizing: content-box;
-    border-bottom: 3px solid var(--main-color);
-    padding: 18.5px 10px;
+    border-bottom: 5px solid var(--main-color);
 
 }
 
